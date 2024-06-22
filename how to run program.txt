@@ -1,0 +1,20 @@
+NOTE
+COMPILER BUTTON AND RUN BUTTON 
+DOES NOT WORK
+
+
+step 1
+                right click [SudokuApp.kt] in explorer
+                and click [open integrated terminal]
+            
+                it should say something like
+                PS C:\Users\shama\OneDrive\Desktop\VS code\kotlin experiments 2\app\src\main\kotlin\kotlin\experiments\app>
+
+step 2
+                typle into integrated terminal
+    line1       kotlinc SudokuApp.kt RandomGeneratorFile.kt -include-runtime -d SudokuApp.jar
+    line2       java -jar SudokuApp.jar
+
+step 3
+                TO COMPILE PRESS
+                ctrl + shift + b
