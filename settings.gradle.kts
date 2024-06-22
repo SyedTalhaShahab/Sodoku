@@ -13,5 +13,5 @@ pluginManagement {
     includeBuild("build-logic")
 }
 
-rootProject.name = "kotlin experiments 2"
-include("app", "list", "utilities")
+rootProject.name = "KOTLIN_TO_PUSH_ON_GIT"
+include("app", "list", "utilities", "gradle")
